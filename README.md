@@ -1,7 +1,7 @@
 # SQL Server REST #
 
 ## Description ##
-Consuming REST Web Services with SQL Server 2019 in Windows Server 2019.
+Consumming REST Web Services with SQL Server 2019 in Windows Server 2019.
 
 ## Step by step ##
 In first step install Server Server 2019.
